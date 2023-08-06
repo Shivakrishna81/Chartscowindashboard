@@ -1,0 +1,47 @@
+.cowin {
+  display: flex;
+  flex-direction: column;
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 30px;
+  padding-top: 10px;
+}
+.logo {
+  height: 35px;
+  width: 35px;
+  margin-right: 10px;
+}
+.logo-head {
+  color: rgb(10, 223, 187);
+  font-size: 30px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.failure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.failureImg {
+  height: 300px;
+  width: 300px;
+}
+.failure-text {
+  font-family: 'Bree serif';
+  color: #ffffff;
+  font-weight: 600;
+}
+.head {
+  color: #ffffff;
+  font-size: 25px;
+}
+.charts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

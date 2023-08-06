@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.vaccination {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  padding: 15px;
+  max-width: 750px;
+  width: 100%;
+}
+.vhead {
+  font-size: 18px;
+  color: #cdcdd3;
+  align-self: flex-start;
+}
